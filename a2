@@ -9,3 +9,4 @@ while (True):
 
 average = total / count
 print('Average:', average)
+#masdfghjkl
